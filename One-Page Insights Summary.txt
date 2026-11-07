@@ -1,0 +1,57 @@
+SALES PERFORMANCE & CUSTOMER INSIGHTS
+
+One-Page Insights Summary | DataCamp Capstone Project
+
+1. Business Overview
+
+This project analyzes sales performance and customer purchasing behavior using four datasets: customers, orders, order items, and products. The analysis uses Python and pandas to identify revenue trends, product performance, regional contributions, and customer purchasing patterns.
+
+2. Key Performance Indicators
+
+Total Revenue: ₱5,000,765.75
+
+Total Orders: 11,617
+
+Average Order Value: ₱430.47
+
+Revenue analysis included Completed and Shipped orders.
+
+3. Key Business Insights
+
+Insight 1 – Product Category Performance
+
+Toys generated the highest category revenue at approximately ₱693,161, followed by Electronics at approximately ₱680,785. Sports recorded the lowest category revenue at approximately ₱540,243.
+
+Insight 2 – Regional Performance
+
+Central Luzon generated the highest regional revenue at approximately ₱882,055, followed by Central Visayas at approximately ₱859,316 and Metro Manila at approximately ₱834,131.
+
+Insight 3 – Customer Retention
+
+Repeat customers represented approximately 74.82% of analyzed customers, while new customers represented 25.18%. This indicates that repeat purchasing contributed substantially to the customer base in the analysis period.
+
+Insight 4 – Order Performance
+
+The order status analysis recorded 9,811 Completed orders, 1,806 Shipped orders, 1,524 Pending orders, 1,229 Cancelled orders, and 576 Returned orders.
+
+Insight 5 – Revenue Opportunities
+
+The differences in category and regional revenue suggest opportunities to strengthen lower-performing categories and regions while maintaining the performance of leading segments.
+
+Insight 6 – Customer Spending
+
+Customer spending was analyzed to understand differences in purchasing value and identify opportunities to improve customer engagement and retention.
+
+4. Business Recommendations
+
+Recommendation 1 – Strengthen Product and Regional Strategies
+
+Maintain inventory and promotional support for high-performing categories such as Toys and Electronics. Investigate the sales performance of lower-performing categories, particularly Sports, to identify opportunities for improved product visibility and targeted promotions.
+
+Recommendation 2 – Improve Customer Retention and Order Fulfillment
+
+Develop loyalty campaigns and targeted promotions to encourage repeat purchases. At the same time, monitor pending, cancelled, and returned orders to identify operational issues that may affect customer satisfaction and revenue.
+
+5. Conclusion
+
+The analysis demonstrates how data cleaning, integration, KPI calculation, and visualization can support business decision-making. The interactive Streamlit dashboard provides a practical way to explore sales performance and customer behavior and identify opportunities for business improvement.

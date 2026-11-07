@@ -1,0 +1,26 @@
+SALES PERFORMANCE & CUSTOMER INSIGHTS
+DATACAMP CAPSTONE PROJECT
+
+This project examines sales performance and customer purchasing behavior using Python.
+
+Four datasets were analyzed: customers, orders, order items, and products.
+
+Data cleaning was performed using pandas to improve data quality and consistency.
+
+Duplicate records, missing values, inconsistent formats, and data types were addressed.
+
+Primary keys and foreign key relationships were validated before data integration.
+
+The cleaned datasets were combined into a consolidated sales fact table.
+
+Key performance indicators included total revenue, total orders, and Average Order Value (AOV).
+
+Monthly revenue trends were analyzed to understand sales performance over time.
+
+Product and category revenue analyses were conducted to identify top-performing items.
+
+Regional sales and customer spending patterns were examined.
+
+Customer purchasing behavior and order statuses were evaluated.
+
+An interactive Streamlit dashboard was developed to visualize the analysis and support business decision-making.
